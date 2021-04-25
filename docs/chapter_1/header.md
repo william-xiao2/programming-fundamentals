@@ -6,4 +6,4 @@ The following chapter will cover:
 - Expressions, values, and the relation between them.
 - Literals
 - Types
-- Type casting
+- Type Casting
