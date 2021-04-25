@@ -1,7 +1,10 @@
-# Summary​
+# Table of contents
+
+* [Introduction](README.md)
 
 ## Introduction to Programming
 
-* [Expressions, Values, and Types](docs/chapter_1/header.md)
-    * [Expressions](docs/chapter_1/expressions.md)
-    * [Values](docs/chapter_1/values.md)
+* [Expressions, Values, and Types](introduction-to-programming/header/README.md)
+  * [Expressions](introduction-to-programming/header/expressions.md)
+  * [Values](introduction-to-programming/header/values.md)
+
