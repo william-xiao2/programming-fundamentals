@@ -6,4 +6,5 @@
 
 * [Expressions, Values, and Types](docs/chapter_1/header.md)
     * [Expressions](docs/chapter_1/expressions.md)
-        * [Values](docs/chapter_1/values.md)
+    * [Values](docs/chapter_1/values.md)
+    * [Literals](docs/chapter_1/literals.md)
