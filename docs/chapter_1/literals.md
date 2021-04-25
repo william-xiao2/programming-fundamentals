@@ -1,6 +1,6 @@
 # Literals
 
-Literals are expressions that look like values.
+A **literal** is an expression that looks like a value.
 An easy way to tell if something is a literal: if you type it into the Python
 shell, hit enter, and the result Python gives you back looks like the expression
 you typed in, that expression is a literal.
