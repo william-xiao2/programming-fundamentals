@@ -15,13 +15,13 @@ try to interpret it as code.
 
 For example,
 
-![hello_str](assets/chapter_1/hello_str.drawio.svg)
+![hello_str](../../../assets/chapter_1/hello_str.drawio.svg)
 
 You can add punctuation to strings as well. This includes spaces, exclamation
 points, commas, periods, and the like. You can also add digits. Similar to
 text, each character gets its own box.
 
-![oh_no_str](assets/chapter_1/hello_str.drawio.svg)
+![oh_no_str](../../../assets/chapter_1/hello_str.drawio.svg)
 
 Note how even though you are required to add quotes to the beginning and
 end of the string to delimit it and tell Python where the text starts and stops,
