@@ -13,6 +13,7 @@ operations (equals, greater than, less than, etc.) and comparison operations
 take greater precedence over boolean operations (and, or, not).
 
 More formally, in order, precedence is as follows:
+
 1. Exponentiation
 2. Unary operations (e.g. negation)
 3. Multiply, Divide, Remainder
