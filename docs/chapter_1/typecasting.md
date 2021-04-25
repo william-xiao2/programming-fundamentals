@@ -94,6 +94,6 @@ Traceback (most recent call last):
 ValueError: invalid literal for int() with base 10: 'abc'
 ```
 
-Attempting to turn the string `abc` into an integer caused Python to crash, as
+Attempting to turn the string `'abc'` into an integer caused Python to crash, as
 one might expect. What is the numeric equivalent of that text? There is no
 well defined answer.

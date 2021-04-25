@@ -24,6 +24,8 @@ normally as if you hadn't included the underscores. So, you could type
 `1000000` and `1_000_000` and Python treats them as the same number.
 {% endhint %}
 
+## Operators
+
 What can we do with ints? Operations on ints include the standard math operations
 that you learned in grade school. These include:
 

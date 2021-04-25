@@ -1,4 +1,4 @@
-# Type `float`
+## Type `float`
 
 The type `float` represents numbers with decimal points. The term `float`
 is short for "floating-point number", a term used in computer science to
@@ -8,6 +8,7 @@ This decimal point is the main distinguisher between ints and floats.
 For example, `2` is an int, but `2.0` is a float. The fact that we have decimal
 points allows us to represent values we could not before, such as `2.5`.
 
+## Operators
 Operations-wise, floats are similar to ints. They support the same
 addition, subtraction, multiplication, etc. operations, all with the same
 principle that operations on floats should yield floats. However, division

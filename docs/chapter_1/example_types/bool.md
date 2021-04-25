@@ -1,4 +1,4 @@
-# Type `bool`
+## Type `bool`
 
 The `bool` type refers to logical statements. There are only two boolean
 values, and those are `True` and `False`. The term `bool` is short for `boolean`,
@@ -10,6 +10,8 @@ Python, and programming languages in general, are very picky about capitalizatio
 among other things. If you type in these values as `true` or `false`, Python
 will complain that it doesn't know what you're talking about.
 {% endhint %}
+
+## Operators
 
 The main operations on booleans are:
 | Operation | Result                                                                                             |
